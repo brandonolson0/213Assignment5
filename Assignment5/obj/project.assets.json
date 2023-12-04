@@ -7993,23 +7993,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\karina\\.nuget\\packages\\": {},
+    "C:\\Users\\brand\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karina\\OneDrive - North Dakota University System\\Desktop\\213Assignment5\\Assignment5\\Assignment5.csproj",
+      "projectUniqueName": "C:\\Users\\brand\\Desktop\\213Assignment5\\Assignment5\\Assignment5.csproj",
       "projectName": "Assignment5",
-      "projectPath": "C:\\Users\\karina\\OneDrive - North Dakota University System\\Desktop\\213Assignment5\\Assignment5\\Assignment5.csproj",
-      "packagesPath": "C:\\Users\\karina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karina\\OneDrive - North Dakota University System\\Desktop\\213Assignment5\\Assignment5\\obj\\",
+      "projectPath": "C:\\Users\\brand\\Desktop\\213Assignment5\\Assignment5\\Assignment5.csproj",
+      "packagesPath": "C:\\Users\\brand\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\brand\\Desktop\\213Assignment5\\Assignment5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\karina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\brand\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

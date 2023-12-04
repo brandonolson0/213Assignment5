@@ -25,24 +25,6 @@ namespace Assignment5.Controllers
             return View(await _context.Song.ToListAsync());
         }
 
-        // GET: Admin/Details/5
-        public async Task<IActionResult> Details(int? id)
-        {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
-            var song = await _context.Song
-                .FirstOrDefaultAsync(m => m.Id == id);
-            if (song == null)
-            {
-                return NotFound();
-            }
-
-            return View(song);
-        }
-
         // GET: Admin/Create
         public IActionResult Create()
         {
